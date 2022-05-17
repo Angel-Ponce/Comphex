@@ -1,0 +1,5 @@
+DEVICE 16F628A
+DEVICE 16F628A
+TRISB=0
+PORTA.2  = 0
+PORTB=%10000001;esto es un comentario siuuuu siuuuu

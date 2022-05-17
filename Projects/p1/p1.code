@@ -1,0 +1,14 @@
+DEVICE 16F628A
+TRISA = 1
+TRISB = 1
+PORTA = 0
+PORTB = 0
+PORTB.0 = 1
+GOTO _inicio ;comentario con label:
+PORTA = 0;comentario con instruccion goto inicio: 
+;goto aasñldkfjasdf
+_inicio:
+;inicio    :
+;goto 
+
+;
